@@ -19,7 +19,8 @@ header {
 }
 
 #logo {
-    width: 150px;
+    width: 100px;
+    height: 100px;
 }
 
 nav ul {
